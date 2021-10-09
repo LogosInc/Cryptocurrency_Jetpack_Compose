@@ -1,6 +1,5 @@
 package com.example.cryptocurrencyjetpackcompose.data.remote.dto
 
-
 import com.example.cryptocurrencyjetpackcompose.domain.model.CoinDetail
 import com.google.gson.annotations.SerializedName
 
